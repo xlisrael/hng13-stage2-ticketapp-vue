@@ -1,11 +1,7 @@
 
 ---
 
-##  **README for Vue Version**
-**File:** `README.md`
-
-```markdown
-#  HNG Stage 2 Ticket Management App (Vue 3)
+##  HNG Stage 2 Ticket Management App (Vue 3)
 
 A full-featured **Ticket Management Web Application** built with **Vue 3 (Vite)**, **CSS**, and **LocalStorage**, developed as part of the **HNG 13 Frontend Stage 2 Task**.
 
