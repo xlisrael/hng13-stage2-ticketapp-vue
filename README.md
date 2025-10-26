@@ -64,3 +64,4 @@ The app simulates a real-world ticketing system with:
    ```bash
    git clone https://github.com/xlisrael/hng13-stage2-ticketapp-vue.git
    cd hng13-stage2-ticketapp-vue
+   npm run dev
